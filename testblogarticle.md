@@ -1,6 +1,6 @@
 ---
 title: "this is a test article to test layout"
-date: 2026-06-26
+date: 2026-03-12
 author: "Imad keldon"
 summary: "its not about The operator pattern isn't a workaround for Kubernetes' gaps — it's how stateful systems should have been managed all along."
 ---
