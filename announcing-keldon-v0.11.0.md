@@ -2,7 +2,7 @@
 title: "Announcing Keldon v0.11.0"
 date: 2026-04-18
 author: "The Keldon Team"
-summary: "Version v0.11.0 brings faster failover, tablespace support, and a rewritten backup engine."
+summary: "Version v0.11.0 brings faster failover , incremental backup, tablespace support, and a rewritten backup engine."
 ---
 
 Today we're releasing Keldon v0.11.0. This release is the result of six months of work focused on two themes: making failovers faster, and making backup storage more efficient.
