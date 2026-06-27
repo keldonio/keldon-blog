@@ -39,12 +39,7 @@ jobs:
           mkdir -p website/content/blog
 
           rsync -av \
-            --exclude '.git' \
-            --exclude '.github' \
-            --exclude 'README.md' \
-            --exclude 'CONTRIBUTING.md' \
-            --exclude 'LICENSE' \
-            blog-source/ website/content/blog/
+            blog-source/content/ website/content/blog/
 
       - name: Commit and push if changed
         run: |
